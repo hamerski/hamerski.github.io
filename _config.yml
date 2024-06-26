@@ -8,20 +8,20 @@
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 #theme                    : "minimal-mistakes-jekyll"
 
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joanna Piper Morgan"
+title                    : "Patti Hamerski"
 title_separator          : "-"
-subtitle                 : "in somnis veritas"
-name                     : &name "Joanna Piper Morgan" # &name is a YAML anchor which can be *referenced later
+subtitle                 : ""
+name                     : &name "Patti Hamerski" # &name is a YAML anchor which can be *referenced later
 description              : &description " "
-url                      : https://jpmorgan98.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pattihamerski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
-repository               : "jpmorgan98/jpmorgan98.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : /assets/images/profile.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+repository               : "pattihamerski/pattihamerski.github.io"
+teaser                   : assets/images/patti_cute.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : assets/images/patti_cute.jpeg #/assets/images/profile.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -66,7 +66,7 @@ algolia:
 
 #<meta name="google-site-verification" content="ZC_NtQJawu4w2QaKF1WaTYaLYjXmBeklOgcnf_kkb1Q" />
 # SEO Related
-google_site_verification : "ZC_NtQJawu4w2QaKF1WaTYaLYjXmBeklOgcnf_kkb1Q" # Replace this with your ID, or delete
+google_site_verification : # Replace this with your ID, or delete
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -79,7 +79,7 @@ baidu_site_verification  :
 #  username               : &facebook "michaelrose"
 #  app_id                 :
 #  publisher              :
-og_image                 : "/assets/images/profile.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/patti_cute.jpeg" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 #social:
@@ -99,23 +99,23 @@ analytics:
 
 # Site Author
 author:
-  name             : Joanna Piper Morgan # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/jo.jpg"
+  name             : Patti Hamerski # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/patti_cute.jpeg"
   bio              : "(she/her) :3"
   location         : "Corvallis, OR"
   links:
     - label: "github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jpmorgan98"
-    - label: orcid
-      icon: "fab fa-fw fa-orcid"
-      url: https://orcid.org/0000-0003-1379-5431
+      url: "https://github.com/pattihamerski"
+    #- label: orcid
+    #  icon: "fab fa-fw fa-orcid"
+    #  url: https://orcid.org/0000-0003-1379-5431
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jpmorgan98/
+      url: https://www.linkedin.com/in/patti-hamerski-59161362/
     - label: "contact"
       icon: 'fas fa-fw fa-envelope'
-      url: "mailto:joannapipermorgan@gmail.com"
+      url: "mailto:patti.hamerski@oregonstate.edu"
 
   #- label: "Website"
   #  icon: "fas fa-fw fa-link"
@@ -126,10 +126,10 @@ footer:
   links:
     - label: "Github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jpmorgan98"
+      url: "https://github.com/pattihamerski"
     - label: "Contact"
       icon: 'fas fa-fw fa-envelope-square'
-      url: "mailto:joannapipermorgan@gmail.com"
+      url: "mailto:patti.hamerski@oregonstate.edu"
     - label: "Disclaimer"
       icon: "fas fa-fw fa-file-contract"
       url: /disclaimer
