@@ -1,13 +1,14 @@
 ---
 permalink: /cv/
-title: "*curriculum vitae*"
+title: "*Curriculum Vitae*"
 excerpt: "my cv"
 classes: wide
 # toc: true
 ---
 
-[a full pdf copy of my *cv* can be found here](/assets/docs/cv.pdf)
+[a full pdf copy of my CV can be found here](/assets/docs/cv-hamerski.pdf)
 
+<!---
 ## Education
 
 * PhD Mechanical Engineering  (Expected Graduation June 2025) \\
@@ -40,3 +41,4 @@ classes: wide
 
 
 ## Conference Attendance & Professional Development
+-->
