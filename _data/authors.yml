@@ -1,16 +1,16 @@
 # Authors
 
-Joanna:
-  name        : "Joanna Piper Morgan"
-  bio         : "She's got style, she's got grace"
-  avatar      : "/assets/images/jo_croped.jpg"
+Patti:
+  name        : "Patti Hamerski"
+  bio         : "She's beauty and she's grace"
+  avatar      : "/assets/images/headshot.jpg"
   links:
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/jpmorgan98/
+      url: "https://www.linkedin.com/in/patti-hamerski/"
     - label: "github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jpmorgan98"
+      url: "https://github.com/pattihamerski"
     - label: "email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:joannapipermorgan@gmail.com"
+      url: "mailto:patti.hamerski@oregonstate.edu"

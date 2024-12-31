@@ -20,12 +20,18 @@ foo:
 
 # main links
 main:
-  - title: "cv"
-    url: /cv/
-  - title: "about"
+  - title: "About"
     url: /about/
-  - title: "lab"
+  - title: "Projects"
+    url: /projects/
+  - title: "Lab"
     url: /lab/
+  - title: "Courses"
+    url: /courses/
+  - title: "CV"
+    url: /cv/
+  - title: "FAQ"
+    url: /faq/
 
 
 # documentation links
