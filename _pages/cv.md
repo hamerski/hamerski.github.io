@@ -1,19 +1,16 @@
 ---
 permalink: /cv/
-title: "*Curriculum Vitae*"
+title: "**Curriculum Vitae**"
 excerpt: "my cv"
 classes: wide
 # toc: true
 ---
-
-[a full pdf copy of my CV can be found here](/assets/docs/cv-hamerski.pdf)
 
 <object data="/assets/docs/cv-hamerski.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/docs/cv-hamerski.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/docs/cv-hamerski.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
 
 <!---
 ## Education
