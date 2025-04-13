@@ -5,18 +5,19 @@ title: "About Me"
 excerpt: "She's fine? Like I guess"
 layouts_gallery:
 
-#headshot:
-#  - image_path: https://pattihamerski.github.io/assets/images/headshot.jpg
-#    image_url: /assets/images/patti.jpg
-#    alt: "Patti Hamerski headshot"
 
-bbq:
-  - image_path: /assets/images/PER-BBQ.jpeg
-    image_url: /assets/images/bbq.jpeg
-    alt: "Group photo from the OSUPER end of year BBQ in 2024"
+
+#<img src="/assets/images/pfp-laser.jpg" width="300" style="float:right; padding-left:100"/>
 ---
 
-<img src="/assets/images/pfp-laser.jpg" width="300" style="float:right; padding-left:100"/>
+<div style="display:flex;float:right;">
+     <div style="flex:1;">
+          <img src="/assets/images/padding-pfp.png" width="35"/>
+     </div>
+     <div style="flex:1;">
+          <img src="/assets/images/pfp-laser.jpg" width="300"/>
+     </div>
+</div>
 
 **Patti Hamerski, PhD**  
 (she/her)
