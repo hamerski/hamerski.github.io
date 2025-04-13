@@ -8,12 +8,12 @@ layouts_gallery:
 
 
 #<img src="/assets/images/pfp-laser.jpg" width="300" style="float:right; padding-left:100"/>
+    # <div style="flex:1;">
+    #      <img src="/assets/images/padding-pfp.png" width="35"/>
+    # </div>
 ---
 
 <div style="display:flex;float:right;">
-     <div style="flex:1;">
-          <img src="/assets/images/padding-pfp.png" width="35"/>
-     </div>
      <div style="flex:1;">
           <img src="/assets/images/pfp-laser.jpg" width="300"/>
      </div>
