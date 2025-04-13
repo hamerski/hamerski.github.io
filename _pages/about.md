@@ -25,7 +25,7 @@ I'm an [assistant professor in the physics department](https://physics.oregonsta
 
 I direct the [Hamerski lab group](/lab/) doing student-centered research in physics and computing education. I also collaborate as a member of the [OSU Physics Education Research group](https://osuper.physics.oregonstate.edu/).
 
-{% include bbq %}
+include bbq
 
 My [current projects](/projects/) encompass analyzing how undergraduate students use and think about generative AI in computational physics, implementing a peer mentorship program for undergraduate physics transfer students, and establishing a landscape of the challenges that transgender students navigate in STEM graduate programs.
 
