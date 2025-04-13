@@ -16,7 +16,7 @@ bbq:
     alt: "Group photo from the OSUPER end of year BBQ in 2024"
 ---
 
-<img src="/assets/images/pfp-laser.jpg" width="300" align="right" padding-left="100"/>
+<img src="/assets/images/pfp-laser.jpg" width="300" align="right" style="margin-left: 100"/>
 
 **Patti Hamerski, PhD**  
 (she/her)
@@ -31,6 +31,6 @@ Broadly, I research the perspectives of students to learn about the intersection
 
 My interest in physics and computing stems in part from my personal experience devoting years of my own schooling to learning both subjects. The idea of learning about what I saw as *objective reality* and *algorithmic trustworthiness* motivated me. When I saw these veneers fade through my own learning and experiences, I became fascinated in a different way -- physics and computing became places where I could learn about human subjectivity, social processes, and systemic bias. These forces continually shape the fields of physics and computing. I hope to use my research not only to critique and analyze these processes, but also create new ways to infuse justice and humanity into what it means to do physics and computing.
 
-<img src="/assets/images/per-group-bbq.jpeg" width="400" title="Group BBQ!"/>
+<img src="/assets/images/per-group-bbq.jpeg" width="600" title="OSU PER group BBQ!"/>
 
 *Last updated April 2025*

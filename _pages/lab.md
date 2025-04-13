@@ -8,7 +8,7 @@ layouts_gallery:
     
 ---
 
-<img src="/assets/images/yosemite-falls.jpg" width="300"/>
+<img src="/assets/images/yosemite-falls.jpg" width="400"/>
 
 We do student-centered research in physics and computing education. Here are the other lab members.
 
