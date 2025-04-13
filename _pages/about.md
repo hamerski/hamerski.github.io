@@ -6,7 +6,7 @@ excerpt: "She's fine? Like I guess"
 layouts_gallery:
 
 headshot:
-  - image_path: /assets/images/headshot.jpg
+  - image_path: https://pattihamerski.github.io/assets/images/headshot.jpg
     image_url: /assets/images/patti.jpg
     alt: "Patti Hamerski headshot"
 
