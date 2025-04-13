@@ -10,10 +10,16 @@ header:
   overlay_color: "#4090C5"
   overlay_image: /assets/images/title.png 
   actions:
-    - label: "<i class='fab fa-fw fa-github'></i> github"
-      url: "patti.hamerski@oregonstate.edu"
-    - label: "linked<i class='fab fa-fw fa-linkedin'></i>"
+    - label: "email<i class='fab fa-fw fa-envelope'></i>"
+      url: "mailto:patti.hamerski@oregonstate.edu"
+    - label: "linked<i class='fab fa-fw fa-linkedin-square'></i>"
       url: https://www.linkedin.com/in/patti-hamerski-59161362/
+    - label: "scholar <i class='fab fa-fw fa-graduation-cap'></i>"
+      url: https://scholar.google.com/citations?user=529U7w8AAAAJ 
+    - label: "orcid <i class='fab fa-fw fa-orcid'></i>"
+      url: https://orcid.org/0000-0003-3609-5673
+    - label: "github <i class='fab fa-fw fa-github'></i>"
+      url: https://github.com/pattihamerski
 
 #<i class='fa-brands fa-orcid'></i>
 #- label: "<i class='fas fa-fw fa-envelope-square'></i> contact"
@@ -26,7 +32,7 @@ header:
 #      url: https://orcid.org/0000-0003-1379-5431
 
 excerpt: >
-  Prof of Physics Education at Oregon State University<br />
+  Assistant Professor doing Physics Education Research at Oregon State University<br />
 
 
 # images must be 5x3!!!!
@@ -58,6 +64,4 @@ excerpt: >
 #{: .notice--error}
 ---
 
-Welcome to my professional website. Feel free to click around look at some of my projects, cv, or whatever floats your boat! If you feel inclined to reach out (e.g. academic discussions, just wanna say hi, etc.) please don't hesitate to shoot me an email at [joannapipermorgan@gmail.com](mailto:joannapipermorgan@gmail.com).
-
-The work listed here is done in conjunction with amazing colleagues and mentors at various institutions like Oregon State University and Los Alamos National Lab. I stand on the shoulders of these and many many more giants.
+Welcome to my professional website. Feel free to click around and look at some of the work I've been up to. If you feel inclined to reach out, please don't hesitate to shoot me an email at [patti.hamerski@oregonstate.edu](mailto:patti.hamerski@oregonstate.edu).

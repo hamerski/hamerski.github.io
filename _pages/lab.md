@@ -2,17 +2,26 @@
 classes: wide
 permalink: /lab/
 title: "Lab"
-excerpt: "She's fine? Like I guess"
+excerpt: "The Hamerski lab"
 layouts_gallery:
 
     
 ---
 
-These are my advisees that I work with!
+I direct the Hamerski lab, where we do student-centered research in physics and computing education. Here are the other lab members.
 
+## Graduate Students
 
-## Pachi
+#### Pachi Her
 
+Details to come.
 
+#### Luke Nearhood
 
-## Luke
+Details to come.
+
+## Undergraduate Students
+
+#### Mateo Hall
+
+Details to come.
