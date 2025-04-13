@@ -2,7 +2,7 @@
 classes: wide
 permalink: /about/
 title: "About Me"
-excerpt: "She's fine? Like I guess"  
+excerpt: "She's fine? Like I guess"
 layouts_gallery:
 
 #headshot:

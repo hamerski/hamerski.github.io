@@ -8,7 +8,7 @@ layouts_gallery:
     
 ---
 
-<img src="/assets/images/yosemite-falls.jpg" width="400"/>
+<img src="/assets/images/yosemite-falls.jpg" width="500" title="Lab trip to Yosemite on the way to APS 2025. Featuring collaborator Danielle Skinner too!"/>
 
 We do student-centered research in physics and computing education. Here are the other lab members.
 
