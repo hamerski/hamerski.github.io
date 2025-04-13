@@ -8,7 +8,7 @@ author: true
 
 header:
   overlay_color: "#4090C5"
-  overlay_image: /assets/images/title.png 
+  overlay_image: /assets/images/headshot.jpg 
   actions:
     - label: "email<i class='fas fa-fw fa-envelope'></i>"
       url: "mailto:patti.hamerski@oregonstate.edu"

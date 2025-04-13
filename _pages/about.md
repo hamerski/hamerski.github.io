@@ -16,18 +16,16 @@ bbq:
     alt: "Group photo from the OSUPER end of year BBQ in 2024"
 ---
 
-Patti Hamerski, PhD
+<img src="/assets/images/pfp-laser.jpg" width="200" align="right"/>
+
+**Patti Hamerski, PhD**  
 (she/her)
-
-<img src="/assets/images/headshot.jpg" width="400"/>
-
-include headshot
 
 I'm an [assistant professor in the physics department](https://physics.oregonstate.edu/directory/patti-hamerski) at Oregon State University.
 
 I direct the [Hamerski lab group](/lab/) doing student-centered research in physics and computing education. I also collaborate as a member of the [OSU Physics Education Research group](https://osuper.physics.oregonstate.edu/).
 
-include bbq
+<img src="/assets/images/per-group-bbq.jpg" width="75%"/>
 
 My [current projects](/projects/) encompass analyzing how undergraduate students use and think about generative AI in computational physics, implementing a peer mentorship program for undergraduate physics transfer students, and establishing a landscape of the challenges that transgender students navigate in STEM graduate programs.
 

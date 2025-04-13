@@ -1,14 +1,14 @@
 ---
 classes: wide
 permalink: /lab/
-title: "Lab"
-excerpt: "The Hamerski lab"
+title: "The Hamerski Lab"
+excerpt: "The Hamerski Lab"
 layouts_gallery:
 
     
 ---
 
-I direct the Hamerski lab group, where we do student-centered research in physics and computing education. Here are the other lab members.
+We do student-centered research in physics and computing education. Here are the other lab members.
 
 ## Graduate Students
 
