@@ -16,7 +16,7 @@ bbq:
     alt: "Group photo from the OSUPER end of year BBQ in 2024"
 ---
 
-<img src="/assets/images/pfp-laser.jpg" width="300" align="right" style="margin-left: 100"/>
+<img src="/assets/images/pfp-laser.jpg" width="300" style="float:right; padding-left:100"/>
 
 **Patti Hamerski, PhD**  
 (she/her)
