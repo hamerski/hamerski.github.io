@@ -1,5 +1,5 @@
 ---
-permalink: /disclaimer/
+permalink:
 title: Disclaimer
 excerpt: disclaimer
 #classes: wide

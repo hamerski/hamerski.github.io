@@ -1,7 +1,7 @@
 ---
 classes: wide
 permalink: /faq/
-title: "**FAQ**"
+title: "FAQ"
 excerpt: "Frequently Asked Questions"
 ---
 

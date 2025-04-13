@@ -10,16 +10,19 @@ header:
   overlay_color: "#4090C5"
   overlay_image: /assets/images/title.png 
   actions:
-    - label: "email<i class='fab fa-fw fa-envelope'></i>"
+    - label: "email<i class='fas fa-fw fa-envelope'></i>"
       url: "mailto:patti.hamerski@oregonstate.edu"
-    - label: "linked<i class='fab fa-fw fa-linkedin-square'></i>"
+    - label: "linked<i class='fab fa-fw fa-linkedin'></i>"
       url: https://www.linkedin.com/in/patti-hamerski-59161362/
-    - label: "scholar <i class='fab fa-fw fa-graduation-cap'></i>"
+    - label: "scholar <i class='fas fa-fw fa-graduation-cap'></i>"
       url: https://scholar.google.com/citations?user=529U7w8AAAAJ 
     - label: "orcid <i class='fab fa-fw fa-orcid'></i>"
       url: https://orcid.org/0000-0003-3609-5673
     - label: "github <i class='fab fa-fw fa-github'></i>"
       url: https://github.com/pattihamerski
+
+# fas is regular icon, fab is brand icon
+# find other icons here: https://fontawesome.com/v5/search
 
 #<i class='fa-brands fa-orcid'></i>
 #- label: "<i class='fas fa-fw fa-envelope-square'></i> contact"
@@ -32,8 +35,8 @@ header:
 #      url: https://orcid.org/0000-0003-1379-5431
 
 excerpt: >
-  Assistant Professor doing Physics Education Research at Oregon State University<br />
-
+  Assistant Professor doing education research<br />
+  Department of Physics, Oregon State University<br />
 
 # images must be 5x3!!!!
 #feature_row:

@@ -2,7 +2,7 @@
 title: Work
 layout: collection
 classes: wide
-permalink: /work/
+permalink:
 collection: work
 
 entries_layout: grid

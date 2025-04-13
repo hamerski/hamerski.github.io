@@ -1,51 +1,30 @@
 ---
-permalink: /cv/
-title: "*Curriculum Vitae*"
-excerpt: "my cv"
 classes: wide
-# toc: true
+permalink: /courses/
+title: "Courses"
+excerpt: "courses I teach!"
 ---
 
-[a full pdf copy of my CV can be found here](/assets/docs/cv-hamerski.pdf)
+## Computational Physics Lab
 
-<object data="/assets/docs/cv-hamerski.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/assets/docs/cv-hamerski.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/docs/cv-hamerski.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+This three-part course sequence (PH 365, 366, 367) is a project-driven laboratory experience in computational physics for physics majors in their junior year and physics minors. It begins from basic programming principles in Python, and students develop computing skills in algorithm design, data visualization, numerical methods of approximation, statistical and data analysis, random sampling, Monte Carlo simulations, signal processing, and linear algebra. Throughout the course sequence, students work on applying these tools to model and gain insight to physics phenomena.
 
+I revamped the course series to emphasize central concepts in physical computing like precision, computational efficiency, and discretization, and practices like file management, code documentation, and usage of external coding resources. Additionally, I strengthened the applications to physics phenomena that students learn in concurrently offered junior-level physics courses.
 
-<!---
-## Education
+Here's an [example of a final project from PH 367](/assets/docs/project-example-367.html) by two students showcasing their application of finite difference methods to two-dimensional fluid dynamics.
 
-* PhD Mechanical Engineering  (Expected Graduation June 2025) \\
-<small> [Oregon State University](https://oregonstate.edu/), [School of MIME](https://engineering.oregonstate.edu/MIME)\\
-        Emphasis: Thermal Fluid Sciences\\
-        Major Advisor: [Kyle E. Niemeyer](https://niemeyer-research-group.github.io/)\\
-        Minor: Nuclear Engineering\\
-        Minor Advisor: [Todd S. Palmer](https://engineering.oregonstate.edu/people/todd-palmer)
+Also check out [publicly available materials from the course sequence](https://github.com/pattihamerski/PH-36X-Public).
 
-* MS Mechanical Engineering (Dec 2022)\\
-<small> [Oregon State University](https://oregonstate.edu/), [School of Mechanical, Industrial, and Manufacturing Engineering](https://engineering.oregonstate.edu/MIME)\\
-        Emphasis: Thermal Fluid Sciences\\
-        Major Advisor: [Kyle E. Niemeyer](https://niemeyer-research-group.github.io/)\\
-        Project Report: [Explorations of Monte Carlo Solution and Implementation Methods for Thermal Radiation and Neutron Transport](/assets/docs/masters.pdf)
+## Physics Thesis Writing
 
-* BS Mechanical Engineering (June 2020)\\
-<small> [Oregon Institute of Technology](https://www.oit.edu/), [MMET Dept.](https://www.oit.edu/academics/engineering-technology-management/mmet)\\
-        *magna cum laude*\\
-        Minors: Applied Physics, Applied Mathematics
+The physics thesis course (PH 403) is stretched out over three terms, and it offers senior physics majors the opportunity to write a research thesis to fulfill the university-wide disciplinary writing requirement. I am teaching the course for the full three terms in AY 2024-25, and I am planning to re-design the course structure to accommodate a one-term course focused on writing for career opportunities for senior physics majors, and two-term course series focused on physics thesis writing over a shorter timescale.
 
-## Research Experience
+## Embracing Uncertainty in Physics
 
-* Oregon State University, [Center for Monte Carlo Neutron Transport (CEMeNT)](https://cement-psaap.github.io/) & [Niemeyer Research Group (NRG)](https://niemeyer-research-group.github.io/) (June 2020 - Present)\\
-<small> Graduate Research Assistant\\
-        Mentors: [Kyle Niemeyer](https://niemeyer-research-group.github.io/), [Todd Palmer](https://engineering.oregonstate.edu/people/todd-palmer)\\
-        Projects: [MC/DC](/_posts/mcdc_a.md), [Therefore](/work/therefore.md), 
+Together with my colleague Danielle Skinner, I learned (through [OSU's DPO Program](https://dpo.oregonstate.edu/)) how to develop inclusive curriculum that addresses institutionalized systems of power, privilege, and inequity, both broadly and within the physics discipline. 
 
+We designed the course, Embracing Uncertainty in Physics (PH 301), to serve STEM students in their junior year engage with the idea that physics is not an objective endeavor, and the act of doing physics means grappling with a history of injustice and oppression that reverberates into the present day. Students get the opportunity to consider their own position in the field of physics, and imagine what it could mean for them to resist this legacy of inequity in physics and carve out space for hope in ways that are personally meaningful.
 
-## Publications
+## Courses at Michigan State University
 
-
-## Conference Attendance & Professional Development
--->
+I also had the privilege to participate in curriculum development and teach several courses at MSU, including Introduction to Computational Modeling and Data Analysis, Introduction to Data Science, Electricity and Magnetism Project and Practices in Physics (EMP-Cubed), and courses in the Bailey Scholars Program's Leadership in Integrated Learning minor.

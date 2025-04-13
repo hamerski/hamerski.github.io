@@ -1,6 +1,5 @@
 ---
 classes: wide
-permalink: /about/
 title: "About"
 excerpt: "She's fine? Like I guess"
 layouts_gallery:

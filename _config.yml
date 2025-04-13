@@ -21,7 +21,7 @@ url                      : https://pattihamerski.github.io # the base hostname &
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : "pattihamerski/pattihamerski.github.io"
 teaser                   : assets/images/patti_cute.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : assets/images/patti_cute.jpeg #/assets/images/profile.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : assets/images/pfp-laser.jpg #/assets/images/profile.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,39 +100,38 @@ analytics:
 # Site Author
 author:
   name             : Patti Hamerski # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/patti_cute.jpeg"
-  bio              : "(she/her) :3"
+  avatar           : "/assets/images/headshot.jpg"
+  bio              : "(she/her)"
   location         : "Corvallis, OR"
   links:
-    - label: "github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pattihamerski"
-    #- label: orcid
-    #  icon: "fab fa-fw fa-orcid"
-    #  url: https://orcid.org/0000-0003-1379-5431
-    - label: "linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/patti-hamerski-59161362/
     - label: "contact"
       icon: 'fas fa-fw fa-envelope'
       url: "mailto:patti.hamerski@oregonstate.edu"
-
-  #- label: "Website"
-  #  icon: "fas fa-fw fa-link"
-  #  url: "https://jpmorgan98.github.io"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/patti-hamerski-59161362/
+    - label: "scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: https://scholar.google.com/citations?user=529U7w8AAAAJ
+    - label: orcid
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0003-3609-5673
+    - label: "github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/pattihamerski"
 
 # Site Footer
 footer:
   links:
-    - label: "Github"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pattihamerski"
-    - label: "Contact"
-      icon: 'fas fa-fw fa-envelope-square'
-      url: "mailto:patti.hamerski@oregonstate.edu"
-    - label: "Disclaimer"
-      icon: "fas fa-fw fa-file-contract"
-      url: /disclaimer
+    #- label: "Github"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/pattihamerski"
+    #- label: "Contact"
+    #  icon: 'fas fa-fw fa-envelope-square'
+    #  url: "mailto:patti.hamerski@oregonstate.edu"
+    #- label: "Disclaimer"
+    #  icon: "fas fa-fw fa-file-contract"
+    #  url: /disclaimer
 
 
 # Reading Files
