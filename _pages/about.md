@@ -1,7 +1,7 @@
 ---
 classes: wide
 permalink: /about/
-title: "About"
+title: "About Me"
 excerpt: "She's fine? Like I guess"  
 layouts_gallery:
 
@@ -18,6 +18,8 @@ bbq:
 
 Patti Hamerski, PhD
 (she/her)
+
+<img src="/assets/images/headshot.jpg" width="400"/>
 
 include headshot
 

@@ -8,7 +8,7 @@ layouts_gallery:
     
 ---
 
-I direct the Hamerski lab, where we do student-centered research in physics and computing education. Here are the other lab members.
+I direct the Hamerski lab group, where we do student-centered research in physics and computing education. Here are the other lab members.
 
 ## Graduate Students
 
