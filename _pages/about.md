@@ -5,10 +5,10 @@ title: "About"
 excerpt: "She's fine? Like I guess"  
 layouts_gallery:
 
-headshot:
-  - image_path: https://pattihamerski.github.io/assets/images/headshot.jpg
-    image_url: /assets/images/patti.jpg
-    alt: "Patti Hamerski headshot"
+#headshot:
+#  - image_path: https://pattihamerski.github.io/assets/images/headshot.jpg
+#    image_url: /assets/images/patti.jpg
+#    alt: "Patti Hamerski headshot"
 
 bbq:
   - image_path: /assets/images/PER-BBQ.jpeg
@@ -19,7 +19,7 @@ bbq:
 Patti Hamerski, PhD
 (she/her)
 
-{% include headshot %}
+include headshot
 
 I'm an [assistant professor in the physics department](https://physics.oregonstate.edu/directory/patti-hamerski) at Oregon State University.
 
