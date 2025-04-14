@@ -35,7 +35,6 @@ header:
 #      url: https://orcid.org/0000-0003-1379-5431
 
 excerpt: >
-  <br />
   Patti Hamerski, PhD<br />
   <br />
   STEM education researcher, physics educator, and curriculum developer<br />
