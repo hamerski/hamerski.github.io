@@ -13,8 +13,6 @@ layouts_gallery:
      </div>
 </div>
 
-<br />
-
 I'm Patti Hamerski, PhD (she/her). I'm an [assistant professor in the physics department](https://physics.oregonstate.edu/directory/patti-hamerski) at Oregon State University.
 
 I direct the [Hamerski lab group](/lab/) doing student-centered research in physics and computing education. I also collaborate as a member of the [OSU Physics Education Research group](https://osuper.physics.oregonstate.edu/).
