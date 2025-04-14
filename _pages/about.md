@@ -13,7 +13,10 @@ layouts_gallery:
     # </div>
 ---
 
-<div style="display:flex;float:right;">
+<div style="display:flex">
+     <div style="flex:1;">
+          <img src="/assets/images/padding-pfp.png" width="10"/>
+     </div>
      <div style="flex:1;">
           <img src="/assets/images/pfp-laser.jpg" width="300"/>
      </div>
