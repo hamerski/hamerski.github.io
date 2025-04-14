@@ -36,6 +36,7 @@ header:
 
 excerpt: >
   Patti Hamerski, PhD<br />
+  <br />
   STEM education researcher, physics educator, and curriculum developer<br />
   <br />
   Assistant Professor in the Department of Physics, Oregon State University<br />
