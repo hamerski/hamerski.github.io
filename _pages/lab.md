@@ -1,8 +1,8 @@
 ---
 classes: wide
 permalink: /lab/
-title: "The Hamerski Lab"
-excerpt: "The Hamerski Lab"
+title: "Hamerski Lab"
+excerpt: "Hamerski Lab"
 layouts_gallery:
 
     

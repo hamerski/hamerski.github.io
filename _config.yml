@@ -21,7 +21,7 @@ url                      : https://pattihamerski.github.io # the base hostname &
 baseurl                  : / # the subpath of your site, e.g. "/blog"
 repository               : "pattihamerski/pattihamerski.github.io"
 #teaser                   : assets/images/patti_cute.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : assets/images/logo-cat.png #/assets/images/profile.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/logo-cat.png #/assets/images/profile.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -99,14 +99,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "" # *name is a YAML reference pointing to the &anchor earlier
+  name             : " " # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/headshot.jpg"
-  bio              : ""
+  bio              : " "
   location         : "Corvallis, OR"
   links:
     - label: "contact"
       icon: 'fas fa-fw fa-envelope'
-      url: "mailto:patti.hamerski@oregonstate.edu"
+      url: mailto:patti.hamerski@oregonstate.edu
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/patti-hamerski-59161362/
@@ -118,7 +118,7 @@ author:
       url: https://orcid.org/0000-0003-3609-5673
     - label: "github"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pattihamerski"
+      url: https://github.com/pattihamerski
 
 # Site Footer
 footer:
