@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hidden: false
-title: "Patti Hamerski, PhD"
+title: "Welcome to my site :)"
 class: wide
 author: true
 
@@ -35,8 +35,10 @@ header:
 #      url: https://orcid.org/0000-0003-1379-5431
 
 excerpt: >
-  Assistant Professor doing education research<br />
-  Department of Physics, Oregon State University<br />
+  Patti Hamerski, PhD<br />
+  STEM education researcher, physics educator, and curriculum developer<br />
+  <br />
+  Assistant Professor in the Department of Physics, Oregon State University<br />
 
 # images must be 5x3!!!!
 #feature_row:
@@ -67,4 +69,4 @@ excerpt: >
 #{: .notice--error}
 ---
 
-Welcome to my professional website. Feel free to click around and look at some of the work I've been up to. If you feel inclined to reach out, please don't hesitate to shoot me an email at [patti.hamerski@oregonstate.edu](mailto:patti.hamerski@oregonstate.edu).
+Hi there! Feel free to click around and look at some of the work I've been up to. If you feel inclined to reach out, please don't hesitate to shoot me an email at [patti.hamerski@oregonstate.edu](mailto:patti.hamerski@oregonstate.edu).
