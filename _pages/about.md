@@ -13,9 +13,9 @@ layouts_gallery:
     # </div>
 ---
 
-<div style="display:flex; float:right;">
+<div style="display:flex; float:right; gap:0;">
      <div style="flex:1;">
-          <img src="/assets/images/padding-pfp.png" width="10"/>
+          <img src="/assets/images/padding-pfp.png" width="1"/>
      </div>
      <div style="flex:1;">
           <img src="/assets/images/pfp-laser.jpg" width="300"/>
