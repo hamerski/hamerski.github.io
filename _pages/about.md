@@ -13,7 +13,7 @@ layouts_gallery:
     # </div>
 ---
 
-<div style="display:flex">
+<div style="display:flex; float:right;">
      <div style="flex:1;">
           <img src="/assets/images/padding-pfp.png" width="10"/>
      </div>
