@@ -1,4 +1,4 @@
-# pattihamerski.github.io
+# hamerski.github.io
 My professional website!
 
 
